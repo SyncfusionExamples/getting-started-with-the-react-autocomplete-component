@@ -10,7 +10,7 @@ Make sure that you have the latest versions of NodeJS and visual studio code in 
 
 To run this application, you need to clone the `getting-started-with-the-react-autocomplete-component` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm start` command.
 
-## Features and Benefits of Vue AutoComplete
+## Features and Benefits of React AutoComplete
 
 ### Data binding
 You can bind data from a variety of data sources, such as an array of primitive data, JSON data collections, or remote data sources using different kinds of adaptors such as OData, OData V4, URL, JSON, and Web API.
@@ -19,7 +19,7 @@ You can bind data from a variety of data sources, such as an array of primitive 
 Built-in filtering support includes a rich set of filtering options that is available to meet all your application needs.
 
 ### Autofill search
-The Vue AutoComplete component has an autofill search option that completes the word that the user types based on the suggestion text, allowing the end user to search for items easily.
+The React AutoComplete component has an autofill search option that completes the word that the user types based on the suggestion text, allowing the end user to search for items easily.
 
 ### Grouping
 Group the suggestions based on logically grouped categories with individual headers.
@@ -38,11 +38,11 @@ Developer can control whether the placeholder should float.
 [Online Demos](https://ej2.syncfusion.com/react/demos/#/bootstrap5/auto-complete/default/?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
 [Community Forums](https://www.syncfusion.com/forums/windowsforms?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
 [Knowledge Base](https://www.syncfusion.com/kb/essential-js2?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
-[Suggest a feature](https://www.syncfusion.com/feedback/vue?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
-[Pricing](https://www.syncfusion.com/sales/products/vue?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
+[Suggest a feature](https://www.syncfusion.com/feedback/react?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
+[Pricing](https://www.syncfusion.com/sales/products/react?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples)<br/><br/>
 
 ## About Syncfusion React UI Components
-Syncfusion's [React UI Components](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples) library is the only suite that you will ever need to build an application since it contains over 70 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to AutoComplete, we provide popular React Components such as [Vue Charts](https://www.syncfusion.com/vue-ui-components/vue-charts?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples), [Vue DataGrid](https://www.syncfusion.com/vue-ui-components/vue-grid), [Vue Scheduler](https://www.syncfusion.com/vue-ui-components/vue-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples), [Vue Diagram](https://www.syncfusion.com/vue-ui-components/vue-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples), and [Vue PDF Viewer](https://www.syncfusion.com/vue-ui-components/vue-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples).
+Syncfusion's [React UI Components](https://www.syncfusion.com/react-ui-components?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples) library is the only suite that you will ever need to build an application since it contains over 70 high-performance, lightweight, modular, and responsive UI Components in a single package. In addition to AutoComplete, we provide popular React Components such as [React Charts](https://www.syncfusion.com/react-ui-components/react-charts?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples), [React DataGrid](https://www.syncfusion.com/react-ui-components/react-grid), [React Scheduler](https://www.syncfusion.com/react-ui-components/react-scheduler?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples), [React Diagram](https://www.syncfusion.com/react-ui-components/react-diagram?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples), and [React PDF Viewer](https://www.syncfusion.com/react-ui-components/react-pdf-viewer?utm_source=github&utm_medium=listing&utm_campaign=react-autocomplete-github-samples).
 
 ## About Syncfusion
 
